@@ -2,4 +2,4 @@
 - Bitmining Rigs - Setups - Gaming Rigs - Software -
 Cr8tiveMindsLLC
 -
-Install get simple cms
+To Dos: Install get simple cms
