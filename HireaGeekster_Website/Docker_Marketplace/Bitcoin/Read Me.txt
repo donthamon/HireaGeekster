@@ -1,5 +1,8 @@
-Bitcoin plugin for minecraft servers!
+Bitcoin Wallet that runs off of a plugin for minecraft servers!
 
 - 1. Spigot download
-- 2. Spigot build new jar
+- 2. Spigot build from new jar
 - 3. Place into your plugins folder for your minecraft server
+- 4. Create new run.bat script
+- 5. Open run.bat
+- 6. GUI
