@@ -1,2 +1,0 @@
-1. Extract API
-2. Run the .bat
