@@ -1,0 +1,24 @@
+增加Feed翻译功能 #6696
+yefoenix posted onGitHub 
+
+这是一个什么样的功能？
+将输出RSS Feed 的 Item title、content 翻译成指定语言
+
+这个功能可以解决什么问题？
+方便阅读更多非熟练语言Feed
+
+额外描述
+@8430177 使用两个 npm 包 rss-parser 和 translation-google 实现了该功能，详见其博客文章, 可考虑经原作者同意后将该方案整合进入，通过一个（或一组）通用参数来指定是否翻译、源语言与目标语言分别是什么。
+
+
+👍 感谢提交该 Issue，请确保仔细阅读 Issue 模板，RSS 提案模板 或 Feature 提案模板 以便于测试。不符合模板将导致 Issue 被直接关闭。<br /><br />👍 Thanks for the issue, please follow the Issue template, RSS proposal template or Feature proposal template. Otherwise the issue will be closed.
+
+posted by github-actions[bot] 16 days ago
+
+@yefoenix has funded $3.00 to this issue.
+
+Submit pull request via IssueHunt to receive this reward.
+Want to contribute? Chip in to this issue via IssueHunt.
+Checkout the IssueHunt Issue Explorer to see more funded issues.
+Need help from developers? Add your repository on IssueHunt to raise funds.
+posted by issuehunt-app[bot] 3 days ago
